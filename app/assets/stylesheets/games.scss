@@ -1,0 +1,34 @@
+body {
+
+}
+
+body-container {
+  width: 800px;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  // justify-content: space-around;
+}
+
+.letter{
+  padding: 16px;
+  margin: 8px;
+  font-size: 25px;
+  background-color: rgb(72, 132, 222);
+  color: white;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  background-size: 50px 50px;
+
+}
+
+.form {
+  text-align: center;
+}
